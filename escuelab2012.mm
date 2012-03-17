@@ -122,7 +122,7 @@
 </node>
 </node>
 <node CREATED="1331597820415" ID="ID_1621929961" MODIFIED="1331597823217" POSITION="right" TEXT="Herramientas">
-<node CREATED="1331938464023" ID="ID_1470096180" MODIFIED="1331938466926" TEXT="Desarrollar la web en 2 meses como canal ppal de comunicaci&#xf3;n"/>
+<node CREATED="1331938464023" ID="ID_1470096180" MODIFIED="1331946820195" TEXT="la web en 2 meses como canal ppal de comunicaci&#xf3;n"/>
 </node>
 <node CREATED="1331598668252" ID="ID_924576083" MODIFIED="1331944174814" POSITION="left" TEXT="Inventario de Oportunidades">
 <node CREATED="1331599054916" ID="ID_1586205420" MODIFIED="1331599150208" TEXT="seguro">
