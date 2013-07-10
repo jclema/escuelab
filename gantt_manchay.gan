@@ -39,7 +39,7 @@
             <depend id="5" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="5" name="Producción de Contenido" color="#8cb6ce" meeting="false" start="2012-06-18" duration="30" complete="0" expand="true"/>
-        <task id="6" name="Sesiónes de Feedback" color="#8cb6ce" meeting="false" start="2012-06-25" duration="24" complete="0" expand="true">
+        <task id="6" name="Sesiónes de Feedback" color="#8cb6ce" meeting="false" start="2012-06-25" duration="24" complete="0" expand="false">
             <depend id="8" type="2" difference="0" hardness="Strong"/>
             <task id="19" name="1" color="#8cb6ce" meeting="false" start="2012-06-25" duration="6" complete="0" expand="true">
                 <depend id="20" type="2" difference="0" hardness="Strong"/>
@@ -61,7 +61,7 @@
         <task id="9" name="Talleres de contenido general" color="#8cb6ce" meeting="false" start="2012-07-30" duration="6" complete="0" expand="true">
             <depend id="10" type="2" difference="0" hardness="Strong"/>
         </task>
-        <task id="10" name="Talleres de contenido específico educativo" color="#8cb6ce" meeting="false" start="2012-08-06" duration="18" complete="0" expand="true">
+        <task id="10" name="Talleres de contenido específico educativo" color="#8cb6ce" meeting="false" start="2012-08-06" duration="18" complete="0" expand="false">
             <depend id="11" type="2" difference="0" hardness="Strong"/>
             <task id="23" name="1" color="#8cb6ce" meeting="false" start="2012-08-06" duration="6" complete="0" expand="true">
                 <depend id="24" type="2" difference="0" hardness="Strong"/>
@@ -71,7 +71,7 @@
             </task>
             <task id="25" name="3" color="#8cb6ce" meeting="false" start="2012-08-20" duration="6" complete="0" expand="true"/>
         </task>
-        <task id="11" name="Sesiones de acompañamiento en aula" color="#8cb6ce" meeting="false" start="2012-08-27" duration="18" complete="0" expand="true">
+        <task id="11" name="Sesiones de acompañamiento en aula" color="#8cb6ce" meeting="false" start="2012-08-27" duration="18" complete="0" expand="false">
             <task id="33" name="1" color="#8cb6ce" meeting="false" start="2012-08-27" duration="6" complete="0" expand="true">
                 <depend id="34" type="2" difference="0" hardness="Strong"/>
             </task>
